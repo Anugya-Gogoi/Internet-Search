@@ -20,3 +20,6 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## Usage 
 Can be used to develop a backend service for a desktop application or implement a web-search with Python running on the server.
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
