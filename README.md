@@ -5,7 +5,7 @@ A Python program for returning search results from Google Search based on a part
 Google module of Python
 
 
-## How to use :
+## How to use?
 1. Install the required module (google)
 2. Open the file google_search.py in your Python text editor
 
