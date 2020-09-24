@@ -7,7 +7,8 @@ Google module of Python
 
 ## How to use?
 1. Install the required module (google)
-2. Open the file google_search.py in your Python text editor and run it
+2. Open the file google_search.py in your Python text editor 
+3. Run the program
 
 ## Installation of modules 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the module
